@@ -1,7 +1,7 @@
 //Author: Keith Custer
 //Purpose: This program will read an input file that contains student names, majors, and grades.
 //Date: May 27, 2017
-//
+//files: students.txt
 
 //header files needed for I/O and file I/O.
 #include <iostream>
